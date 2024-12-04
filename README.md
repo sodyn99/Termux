@@ -7,5 +7,5 @@ proot-distro login ubuntu-lts --user user --no-sysvipc --shared-tmp
 ```
 
 ```bash
-./start.sh
+./startx.sh
 ```
